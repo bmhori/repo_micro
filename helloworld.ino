@@ -1,4 +1,0 @@
-void loop{
-
-    #teste edicao
-}
